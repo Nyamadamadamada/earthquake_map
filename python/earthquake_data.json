@@ -1,0 +1,610 @@
+{
+  "first_date": "2023-05-01 00:00:00",
+  "last_date": "2023-07-01 00:00:00",
+  "data": [
+    [
+      {
+        "id": "645bee87f0f6de0007954804",
+        "earthquake": {
+          "depth": 40,
+          "latitude": 35.2,
+          "longitude": 140.2,
+          "magnitude": 5.4,
+          "name": "千葉県南部"
+        },
+        "maxScale": 50,
+        "time": "2023-05-11 04:16:00",
+        "year_month": "2023/05"
+      },
+      {
+        "id": "645c5dd5f0f6de00079548c8",
+        "earthquake": {
+          "depth": 20,
+          "latitude": 29.9,
+          "longitude": 130,
+          "magnitude": 4.4,
+          "name": "トカラ列島近海"
+        },
+        "maxScale": 40,
+        "time": "2023-05-11 12:11:00",
+        "year_month": "2023/05"
+      },
+      {
+        "id": "645cbc03f0f6de00079549b8",
+        "earthquake": {
+          "depth": 50,
+          "latitude": 42.3,
+          "longitude": 143,
+          "magnitude": 5.4,
+          "name": "日高地方東部"
+        },
+        "maxScale": 40,
+        "time": "2023-05-11 18:52:00",
+        "year_month": "2023/05"
+      },
+      {
+        "id": "645cefbef0f6de0007954a5a",
+        "earthquake": {
+          "depth": 0,
+          "latitude": 24.2,
+          "longitude": 125.2,
+          "magnitude": 6.1,
+          "name": "宮古島近海"
+        },
+        "maxScale": 30,
+        "time": "2023-05-11 22:33:00",
+        "year_month": "2023/05"
+      },
+      {
+        "id": "645e35ddf0f6de0007954c6e",
+        "earthquake": {
+          "depth": 40,
+          "latitude": 33.5,
+          "longitude": 132.4,
+          "magnitude": 4.2,
+          "name": "愛媛県南予"
+        },
+        "maxScale": 30,
+        "time": "2023-05-12 21:45:00",
+        "year_month": "2023/05"
+      },
+      {
+        "id": "645e3724f0f6de0007954c75",
+        "earthquake": {
+          "depth": 40,
+          "latitude": 33.5,
+          "longitude": 132.4,
+          "magnitude": 4.2,
+          "name": "愛媛県南予"
+        },
+        "maxScale": 30,
+        "time": "2023-05-12 21:45:00",
+        "year_month": "2023/05"
+      },
+      {
+        "id": "645f390bf0f6de0007954d74",
+        "earthquake": {
+          "depth": 10,
+          "latitude": 29.9,
+          "longitude": 130,
+          "magnitude": 5.1,
+          "name": "トカラ列島近海"
+        },
+        "maxScale": 45,
+        "time": "2023-05-13 16:10:00",
+        "year_month": "2023/05"
+      },
+      {
+        "id": "645f39b1f0f6de0007954d7c",
+        "earthquake": {
+          "depth": 20,
+          "latitude": 29.9,
+          "longitude": 130,
+          "magnitude": 3.4,
+          "name": "トカラ列島近海"
+        },
+        "maxScale": 30,
+        "time": "2023-05-13 16:14:00",
+        "year_month": "2023/05"
+      },
+      {
+        "id": "645fa96af0f6de0007954e7f",
+        "earthquake": {
+          "depth": 10,
+          "latitude": 29.9,
+          "longitude": 130,
+          "magnitude": 3.1,
+          "name": "トカラ列島近海"
+        },
+        "maxScale": 30,
+        "time": "2023-05-14 00:09:00",
+        "year_month": "2023/05"
+      },
+      {
+        "id": "646098f6f0f6de0007955046",
+        "earthquake": {
+          "depth": 10,
+          "latitude": 33.4,
+          "longitude": 139.3,
+          "magnitude": 5.6,
+          "name": "八丈島近海"
+        },
+        "maxScale": 30,
+        "time": "2023-05-14 17:12:00",
+        "year_month": "2023/05"
+      },
+      {
+        "id": "6462602af0f6de0007955428",
+        "earthquake": {
+          "depth": 10,
+          "latitude": 29.9,
+          "longitude": 130.1,
+          "magnitude": 3.3,
+          "name": "トカラ列島近海"
+        },
+        "maxScale": 30,
+        "time": "2023-05-16 01:34:00",
+        "year_month": "2023/05"
+      },
+      {
+        "id": "6466039df0f6de000795585e",
+        "earthquake": {
+          "depth": 10,
+          "latitude": 37.5,
+          "longitude": 137.3,
+          "magnitude": 3.6,
+          "name": "石川県能登地方"
+        },
+        "maxScale": 30,
+        "time": "2023-05-18 19:49:00",
+        "year_month": "2023/05"
+      },
+      {
+        "id": "6466a001f0f6de0007955922",
+        "earthquake": {
+          "depth": 50,
+          "latitude": 33.2,
+          "longitude": 132.2,
+          "magnitude": 4.4,
+          "name": "豊後水道"
+        },
+        "maxScale": 40,
+        "time": "2023-05-19 06:56:00",
+        "year_month": "2023/05"
+      },
+      {
+        "id": "646a9a79f0f6de0007955e7c",
+        "earthquake": {
+          "depth": 190,
+          "latitude": 29.8,
+          "longitude": 129.5,
+          "magnitude": 5.4,
+          "name": "トカラ列島近海"
+        },
+        "maxScale": 30,
+        "time": "2023-05-22 07:20:00",
+        "year_month": "2023/05"
+      },
+      {
+        "id": "646acbf3f0f6de0007955ed8",
+        "earthquake": {
+          "depth": 10,
+          "latitude": 34.5,
+          "longitude": 139.2,
+          "magnitude": 4,
+          "name": "新島・神津島近海"
+        },
+        "maxScale": 30,
+        "time": "2023-05-22 10:53:00",
+        "year_month": "2023/05"
+      },
+      {
+        "id": "646b1ddef0f6de0007955ff0",
+        "earthquake": {
+          "depth": 10,
+          "latitude": 34.5,
+          "longitude": 139.2,
+          "magnitude": 5.3,
+          "name": "新島・神津島近海"
+        },
+        "maxScale": 45,
+        "time": "2023-05-22 16:42:00",
+        "year_month": "2023/05"
+      },
+      {
+        "id": "646b283af0f6de0007956047",
+        "earthquake": {
+          "depth": 10,
+          "latitude": 34.5,
+          "longitude": 139.2,
+          "magnitude": 3.6,
+          "name": "新島・神津島近海"
+        },
+        "maxScale": 30,
+        "time": "2023-05-22 17:27:00",
+        "year_month": "2023/05"
+      },
+      {
+        "id": "646b48faf0f6de0007956102",
+        "earthquake": {
+          "depth": 10,
+          "latitude": 34.5,
+          "longitude": 139.3,
+          "magnitude": 5.1,
+          "name": "新島・神津島近海"
+        },
+        "maxScale": 40,
+        "time": "2023-05-22 19:46:00",
+        "year_month": "2023/05"
+      },
+      {
+        "id": "646bc3f8f0f6de0007956200",
+        "earthquake": {
+          "depth": 10,
+          "latitude": 34.5,
+          "longitude": 139.2,
+          "magnitude": 4.1,
+          "name": "新島・神津島近海"
+        },
+        "maxScale": 30,
+        "time": "2023-05-23 04:31:00",
+        "year_month": "2023/05"
+      },
+      {
+        "id": "646ceb5af0f6de000795640f",
+        "earthquake": {
+          "depth": 10,
+          "latitude": 34.5,
+          "longitude": 139.2,
+          "magnitude": 4.1,
+          "name": "新島・神津島近海"
+        },
+        "maxScale": 30,
+        "time": "2023-05-24 01:31:00",
+        "year_month": "2023/05"
+      },
+      {
+        "id": "646e8903f0f6de00079565c8",
+        "earthquake": {
+          "depth": 10,
+          "latitude": 29.9,
+          "longitude": 130,
+          "magnitude": 2.9,
+          "name": "トカラ列島近海"
+        },
+        "maxScale": 30,
+        "time": "2023-05-25 06:55:00",
+        "year_month": "2023/05"
+      },
+      {
+        "id": "64708518f0f6de0007956951",
+        "earthquake": {
+          "depth": 50,
+          "latitude": 35.6,
+          "longitude": 140.7,
+          "magnitude": 6.2,
+          "name": "千葉県東方沖"
+        },
+        "maxScale": 45,
+        "time": "2023-05-26 19:03:00",
+        "year_month": "2023/05"
+      },
+      {
+        "id": "64720beef0f6de0007956d3a",
+        "earthquake": {
+          "depth": 10,
+          "latitude": 29.9,
+          "longitude": 130,
+          "magnitude": 4.7,
+          "name": "トカラ列島近海"
+        },
+        "maxScale": 40,
+        "time": "2023-05-27 22:52:00",
+        "year_month": "2023/05"
+      },
+      {
+        "id": "64721588f0f6de0007956d64",
+        "earthquake": {
+          "depth": 10,
+          "latitude": 29.9,
+          "longitude": 130,
+          "magnitude": 3.2,
+          "name": "トカラ列島近海"
+        },
+        "maxScale": 30,
+        "time": "2023-05-27 23:33:00",
+        "year_month": "2023/05"
+      },
+      {
+        "id": "6475b97df0f6de0007957219",
+        "earthquake": {
+          "depth": 10,
+          "latitude": 37.5,
+          "longitude": 137.4,
+          "magnitude": 4.5,
+          "name": "能登半島沖"
+        },
+        "maxScale": 40,
+        "time": "2023-05-30 17:49:00",
+        "year_month": "2023/05"
+      },
+      {
+        "id": "6475dbeff0f6de0007957254",
+        "earthquake": {
+          "depth": 10,
+          "latitude": 32.7,
+          "longitude": 130.7,
+          "magnitude": 3.8,
+          "name": "熊本県熊本地方"
+        },
+        "maxScale": 30,
+        "time": "2023-05-30 20:16:00",
+        "year_month": "2023/05"
+      }
+    ],
+    [
+      {
+        "id": "64780351f0f6de0007957557",
+        "earthquake": {
+          "depth": 10,
+          "latitude": 29.9,
+          "longitude": 130,
+          "magnitude": 4.4,
+          "name": "トカラ列島近海"
+        },
+        "maxScale": 40,
+        "time": "2023-06-01 11:28:00",
+        "year_month": "2023/06"
+      },
+      {
+        "id": "64787db9f0f6de00079575f8",
+        "earthquake": {
+          "depth": 10,
+          "latitude": 30,
+          "longitude": 129.9,
+          "magnitude": 3.6,
+          "name": "トカラ列島近海"
+        },
+        "maxScale": 30,
+        "time": "2023-06-01 20:11:00",
+        "year_month": "2023/06"
+      },
+      {
+        "id": "647b1885f0f6de0007957928",
+        "earthquake": {
+          "depth": 60,
+          "latitude": 42,
+          "longitude": 142.6,
+          "magnitude": 5.1,
+          "name": "浦河沖"
+        },
+        "maxScale": 30,
+        "time": "2023-06-03 19:35:00",
+        "year_month": "2023/06"
+      },
+      {
+        "id": "647bf0c9f0f6de0007957b2e",
+        "earthquake": {
+          "depth": 70,
+          "latitude": 35.8,
+          "longitude": 140.1,
+          "magnitude": 4.6,
+          "name": "千葉県北西部"
+        },
+        "maxScale": 30,
+        "time": "2023-06-04 10:58:00",
+        "year_month": "2023/06"
+      },
+      {
+        "id": "648311eaf0f6de0007958427",
+        "earthquake": {
+          "depth": 10,
+          "latitude": 37.5,
+          "longitude": 137.4,
+          "magnitude": 3.8,
+          "name": "能登半島沖"
+        },
+        "maxScale": 30,
+        "time": "2023-06-09 20:45:00",
+        "year_month": "2023/06"
+      },
+      {
+        "id": "64859b19f0f6de000795888a",
+        "earthquake": {
+          "depth": 140,
+          "latitude": 42.5,
+          "longitude": 142,
+          "magnitude": 6.2,
+          "name": "浦河沖"
+        },
+        "maxScale": 45,
+        "time": "2023-06-11 18:55:00",
+        "year_month": "2023/06"
+      },
+      {
+        "id": "6488fb89f0f6de0007958c57",
+        "earthquake": {
+          "depth": 10,
+          "latitude": 29.8,
+          "longitude": 129.8,
+          "magnitude": 3.1,
+          "name": "トカラ列島近海"
+        },
+        "maxScale": 30,
+        "time": "2023-06-14 08:23:00",
+        "year_month": "2023/06"
+      },
+      {
+        "id": "648c555cf0f6de00079592da",
+        "earthquake": {
+          "depth": 50,
+          "latitude": 35.7,
+          "longitude": 140.7,
+          "magnitude": 4.9,
+          "name": "千葉県北東部"
+        },
+        "maxScale": 40,
+        "time": "2023-06-16 21:24:00",
+        "year_month": "2023/06"
+      },
+      {
+        "id": "648cfe9cf0f6de0007959405",
+        "earthquake": {
+          "depth": 20,
+          "latitude": 41.2,
+          "longitude": 142.9,
+          "magnitude": 5.7,
+          "name": "青森県東方沖"
+        },
+        "maxScale": 30,
+        "time": "2023-06-17 09:26:00",
+        "year_month": "2023/06"
+      },
+      {
+        "id": "648f38f4f0f6de0007959720",
+        "earthquake": {
+          "depth": 30,
+          "latitude": 31.3,
+          "longitude": 131.6,
+          "magnitude": 4.8,
+          "name": "大隅半島東方沖"
+        },
+        "maxScale": 30,
+        "time": "2023-06-19 01:58:00",
+        "year_month": "2023/06"
+      },
+      {
+        "id": "648fdfc6f0f6de000795982c",
+        "earthquake": {
+          "depth": 60,
+          "latitude": 42.5,
+          "longitude": 143,
+          "magnitude": 5.2,
+          "name": "十勝地方南部"
+        },
+        "maxScale": 30,
+        "time": "2023-06-19 13:50:00",
+        "year_month": "2023/06"
+      },
+      {
+        "id": "64918a1bf0f6de0007959a77",
+        "earthquake": {
+          "depth": 10,
+          "latitude": 36.5,
+          "longitude": 137.8,
+          "magnitude": 3.9,
+          "name": "長野県北部"
+        },
+        "maxScale": 30,
+        "time": "2023-06-20 20:10:00",
+        "year_month": "2023/06"
+      },
+      {
+        "id": "6493a3caf0f6de0007959d1c",
+        "earthquake": {
+          "depth": 40,
+          "latitude": 26.4,
+          "longitude": 127.9,
+          "magnitude": 5.2,
+          "name": "沖縄本島近海"
+        },
+        "maxScale": 30,
+        "time": "2023-06-22 10:24:00",
+        "year_month": "2023/06"
+      },
+      {
+        "id": "6493fbc0f0f6de0007959d8e",
+        "earthquake": {
+          "depth": 50,
+          "latitude": 41.6,
+          "longitude": 142.1,
+          "magnitude": 4.1,
+          "name": "浦河沖"
+        },
+        "maxScale": 30,
+        "time": "2023-06-22 16:39:00",
+        "year_month": "2023/06"
+      },
+      {
+        "id": "649640eaf0f6de000795a101",
+        "earthquake": {
+          "depth": 40,
+          "latitude": 37.3,
+          "longitude": 141.8,
+          "magnitude": 4.9,
+          "name": "福島県沖"
+        },
+        "maxScale": 30,
+        "time": "2023-06-24 09:58:00",
+        "year_month": "2023/06"
+      },
+      {
+        "id": "649b74bcf0f6de000795a750",
+        "earthquake": {
+          "depth": 480,
+          "latitude": 42.1,
+          "longitude": 134.4,
+          "magnitude": 6.2,
+          "name": "日本海北部"
+        },
+        "maxScale": 30,
+        "time": "2023-06-28 08:39:00",
+        "year_month": "2023/06"
+      },
+      {
+        "id": "649e67d0f0f6de000795ab26",
+        "earthquake": {
+          "depth": 50,
+          "latitude": 36.7,
+          "longitude": 140.9,
+          "magnitude": 4.1,
+          "name": "茨城県沖"
+        },
+        "maxScale": 30,
+        "time": "2023-06-30 14:23:00",
+        "year_month": "2023/06"
+      }
+    ],
+    [
+      {
+        "id": "64a95917f0f6de000795b8e7",
+        "earthquake": {
+          "depth": 10,
+          "latitude": 37.5,
+          "longitude": 137.2,
+          "magnitude": 4,
+          "name": "石川県能登地方"
+        },
+        "maxScale": 30,
+        "time": "2023-07-08 21:36:00",
+        "year_month": "2023/07"
+      },
+      {
+        "id": "64b48e43f0f6de000795ccd1",
+        "earthquake": {
+          "depth": 110,
+          "latitude": 42.8,
+          "longitude": 143.4,
+          "magnitude": 4.4,
+          "name": "十勝地方中部"
+        },
+        "maxScale": 30,
+        "time": "2023-07-17 09:37:00",
+        "year_month": "2023/07"
+      },
+      {
+        "id": "64b8b415f0f6de000795d45d",
+        "earthquake": {
+          "depth": 50,
+          "latitude": 35.7,
+          "longitude": 140.7,
+          "magnitude": 4.4,
+          "name": "千葉県北東部"
+        },
+        "maxScale": 30,
+        "time": "2023-07-20 13:08:00",
+        "year_month": "2023/07"
+      }
+    ]
+  ]
+}
